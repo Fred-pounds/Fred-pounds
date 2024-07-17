@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fred-pounds
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Software Engineering, Coding is a hobby
+- 🌱 I’m currently learning Flutter and Dlang
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me (https://www.linkedin.com/in/fredrick-andoh/)
 
