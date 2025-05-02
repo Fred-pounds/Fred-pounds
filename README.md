@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fred-pounds
 - 👀 I’m interested in Software Engineering, Coding is a hobby
 - 🌱 I’m currently learning Flutter and Python
-- 💞️ I’m looking to collaborate on any project.
+- 💞️ Interested in AI/ML and Embedded systems.
 - 📫 How to reach me (https://www.linkedin.com/in/fredrick-andoh/)
 
 <!---
